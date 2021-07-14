@@ -15,13 +15,13 @@ footer {
 }
 .container {
   width: 75%;
-  background: rgb(255, 128, 128);
+  background: rgb(78, 255, 196);
   padding: 10px;
 }
 .section-title {
   text-align: center;
   font-size: 38px;
-  color: #9aff96;
+  color: #ff0aeb;
 }
 /* Header Part  */
 .header-banner {
@@ -89,7 +89,7 @@ footer {
 .player-name {
   font-size: 28px;
   font-weight: 700;
-  color: #9296ac;
+  color: #ff0bff;
   margin-bottom: 0;
 }
 .player-detail p {
