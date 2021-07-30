@@ -44,12 +44,13 @@ footer {
   margin-bottom: 17px;
 }
 .anchor-link {
-  color: #ffffff;
+  color: #ffbfbf;
   font-size: 16px;
   text-decoration: none;
-  font-weight: 500;
-  background: #e02c6d;
+  font-weight: 700;
+  background-image: linear-gradient(rgb(255, 97, 69), rgb(255, 63, 63));
   padding: 10px 24px;
+  border-radius: 5px;
 }
 .right-part {
   /* grid-column: span 6; */
@@ -209,6 +210,9 @@ footer {
 .footer-info p {
   margin-top: 20px;
   font-size: 18px;
+}
+.custom-color{
+  color: #ff0bff;
 }
 
 /* Responsive */
